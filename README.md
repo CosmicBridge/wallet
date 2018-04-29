@@ -22,7 +22,7 @@ Allows users the ability to participate in a Cosmic Bridge payment network and s
 <img src='./img/extension.gif' width="400px"/>
 <br/>
 <li>
-    Once there enabled "Developer mode".<br/>
+    Once there enable "Developer mode".<br/>
 </li>
 <img src='./img/developer_mode.png'/>
 </br>
