@@ -12,10 +12,10 @@ Allows users the ability to participate in a Cosmic Bridge payment network and s
 <ol>
 <li>
     Run the following command from the `/cosmos-bridge-extension` directory:
-    <pre>
-    yarn build
-    </pre>
 </li>
+<pre>
+    yarn build
+</pre>
 <li>
     Navigate to the extensions page of your chrome browser.
 </li>
@@ -24,7 +24,7 @@ Allows users the ability to participate in a Cosmic Bridge payment network and s
 <li>
     Once there enable "Developer mode".<br/>
 </li>
-<img src='./img/developer_mode.png'/>
+<img src='./img/developer_mode.png' width="400px"/>
 </br>
 <li>
     Drag the output of the build folder from step one into the chrome extensions browser page.
