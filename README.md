@@ -1,6 +1,8 @@
 # Cosmic Bridge Wallet
 Wallet plugin for Chrome.
 
+### Status (May 2018)
+For the time being, the Cosmic Bridge team chose to focus on the core - [the backend side of the solution](https://github.com/CosmicBridge/server/). We believe the best approach forward for the wallet would be to use [Lotion-connect](https://www.npmjs.com/package/lotion-connect) to create an in-browser light client that can function as a wallet in any Cosmic Bridge payment zone. If you'd like to work on this, please let us know or just hit us up with a good PR.
 
 ### Concept
 
